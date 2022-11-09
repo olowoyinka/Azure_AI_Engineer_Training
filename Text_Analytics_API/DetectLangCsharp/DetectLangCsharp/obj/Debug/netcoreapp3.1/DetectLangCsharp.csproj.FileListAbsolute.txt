@@ -1,0 +1,17 @@
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\bin\Debug\netcoreapp3.1\DetectLangCsharp.exe
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\obj\Debug\netcoreapp3.1\DetectLangCsharp.csprojAssemblyReference.cache
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\obj\Debug\netcoreapp3.1\DetectLangCsharp.AssemblyInfoInputs.cache
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\obj\Debug\netcoreapp3.1\DetectLangCsharp.AssemblyInfo.cs
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\bin\Debug\netcoreapp3.1\DetectLangCsharp.deps.json
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\bin\Debug\netcoreapp3.1\DetectLangCsharp.runtimeconfig.json
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\bin\Debug\netcoreapp3.1\DetectLangCsharp.runtimeconfig.dev.json
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\bin\Debug\netcoreapp3.1\DetectLangCsharp.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\bin\Debug\netcoreapp3.1\DetectLangCsharp.pdb
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\bin\Debug\netcoreapp3.1\Azure.AI.TextAnalytics.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\obj\Debug\netcoreapp3.1\DetectLangCsharp.csproj.CoreCompileInputs.cache
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\obj\Debug\netcoreapp3.1\DetectLangCsharp.csproj.CopyComplete
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\obj\Debug\netcoreapp3.1\DetectLangCsharp.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\obj\Debug\netcoreapp3.1\DetectLangCsharp.pdb
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\DetectLangCsharp\DetectLangCsharp\obj\Debug\netcoreapp3.1\DetectLangCsharp.genruntimeconfig.cache

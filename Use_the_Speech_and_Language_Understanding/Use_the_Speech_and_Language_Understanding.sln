@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Use_the_Speech_and_Language_Understanding", "Use_the_Speech_and_Language_Understanding\Use_the_Speech_and_Language_Understanding.csproj", "{0BE74F3F-ED80-416F-89BD-9881F105AB25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE74F3F-ED80-416F-89BD-9881F105AB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE74F3F-ED80-416F-89BD-9881F105AB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE74F3F-ED80-416F-89BD-9881F105AB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE74F3F-ED80-416F-89BD-9881F105AB25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFF9A805-2798-4BD6-A257-09C9F27ADFF2}
+	EndGlobalSection
+EndGlobal

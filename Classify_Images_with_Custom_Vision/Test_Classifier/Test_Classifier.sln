@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Classifier", "Test_Classifier\Test_Classifier.csproj", "{4A1C5FCC-CB49-4084-8FA8-733D8769A4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A1C5FCC-CB49-4084-8FA8-733D8769A4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A1C5FCC-CB49-4084-8FA8-733D8769A4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A1C5FCC-CB49-4084-8FA8-733D8769A4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A1C5FCC-CB49-4084-8FA8-733D8769A4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19565CE0-DE35-4B0A-9004-E743FA9E3613}
+	EndGlobalSection
+EndGlobal

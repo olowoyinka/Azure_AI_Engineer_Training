@@ -1,0 +1,17 @@
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\bin\Debug\netcoreapp3.1\KeyPhrase_Csharp.exe
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\bin\Debug\netcoreapp3.1\KeyPhrase_Csharp.deps.json
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\bin\Debug\netcoreapp3.1\KeyPhrase_Csharp.runtimeconfig.json
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\bin\Debug\netcoreapp3.1\KeyPhrase_Csharp.runtimeconfig.dev.json
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\bin\Debug\netcoreapp3.1\KeyPhrase_Csharp.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\bin\Debug\netcoreapp3.1\KeyPhrase_Csharp.pdb
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.TextAnalytics.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\obj\Debug\netcoreapp3.1\KeyPhrase_Csharp.AssemblyInfoInputs.cache
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\obj\Debug\netcoreapp3.1\KeyPhrase_Csharp.AssemblyInfo.cs
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\obj\Debug\netcoreapp3.1\KeyPhrase_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\obj\Debug\netcoreapp3.1\KeyPhrase_Csharp.csproj.CopyComplete
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\obj\Debug\netcoreapp3.1\KeyPhrase_Csharp.dll
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\obj\Debug\netcoreapp3.1\KeyPhrase_Csharp.pdb
+C:\Users\olowoyinka\source\repos\AI Engineer\Worked\KeyPhrase_Csharp\KeyPhrase_Csharp\obj\Debug\netcoreapp3.1\KeyPhrase_Csharp.genruntimeconfig.cache

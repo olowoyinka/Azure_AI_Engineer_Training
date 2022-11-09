@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Analyze_Images_with_Computer_Vision", "Analyze_Images_with_Computer_Vision\Analyze_Images_with_Computer_Vision.csproj", "{9008C48C-00DE-48FA-98BC-1D7D8AF0278E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9008C48C-00DE-48FA-98BC-1D7D8AF0278E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9008C48C-00DE-48FA-98BC-1D7D8AF0278E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9008C48C-00DE-48FA-98BC-1D7D8AF0278E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9008C48C-00DE-48FA-98BC-1D7D8AF0278E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D885793D-885E-41BD-8A31-903DA73E0DFC}
+	EndGlobalSection
+EndGlobal
